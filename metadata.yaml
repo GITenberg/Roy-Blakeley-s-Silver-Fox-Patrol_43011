@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43011#Roy-Blakeley-s-Silver-Fox-Patrol
 gutenberg_issued: '2013-06-22'
 gutenberg_type: Text
 identifiers:
